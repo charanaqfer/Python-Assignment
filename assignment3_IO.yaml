@@ -1,0 +1,166 @@
+impressions1:
+  - id: id1
+    name: name1
+    ip: address1
+  - id: id2
+    name: name2
+    ip: address2
+  - id: id3
+    name: name3
+    ip: address1
+  - id: id4
+    name: name4
+    ip: address4
+  - id: id5
+    name: name5
+    ip: address1
+  - id: id6
+    name: name6
+    ip: address6
+
+clicks1:
+  - id: id1
+    name: name8
+    ip: address1
+  - id: id4
+    name: name9
+    ip: address2
+  - id: id2
+    name: name13
+    ip: address3
+  - id: id3
+    name: name14
+    ip: address4
+  - id: id5
+    name: name15
+    ip: address1
+  - id: id6
+    name: name16
+    ip: address6
+
+os_brow1:
+  ip: address1
+  browser: b1
+  os: os1
+
+impressions2:
+  - id: id1
+    name: name1
+    ip: address1
+  - id: id2
+    name: name2
+    ip: address2
+  - id: id3
+    name: name3
+    ip: address2
+  - id: id4
+    name: name4
+    ip: address2
+  - id: id5
+    name: name5
+    ip: address1
+  - id: id6
+    name: name6
+    ip: address6
+
+clicks2:
+  - id: id1
+    name: name8
+    ip: address1
+  - id: id4
+    name: name9
+    ip: address2
+  - id: id2
+    name: name13
+    ip: address3
+  - id: id3
+    name: name14
+    ip: address2
+  - id: id5
+    name: name15
+    ip: address1
+  - id: id6
+    name: name16
+    ip: address2
+
+os_brow2:
+  ip: address2
+  browser: google
+  os: mac
+
+expect_res1:
+  os: os1
+  browser: b1
+  impressions:
+    - id: id1
+      name: name1
+    - id: id3
+      name: name3
+    - id: id5
+      name: name5
+  clicks:
+    - id: id1
+      name: name8
+    - id: id5
+      name: name15
+  matching_ids:
+    - id1
+    - id5
+
+expect_res2:
+  os: mac
+  browser: google
+  impressions:
+    - id: id2
+      name: name2
+    - id: id3
+      name: name3
+    - id: id4
+      name: name4
+  clicks:
+    - id: id4
+      name: name9
+    - id: id3
+      name: name14
+    - id: id6
+      name: name16
+  matching_ids:
+    - id4
+    - id3
+# - os: os1
+# browser: b1
+# impressions:
+#   - id: id1
+#     name: name1
+#   - id: id3
+#     name: name3
+#   - id: id5
+#     name: name5
+# clicks:
+#   - id: id1
+#     name: name8
+#   - id: id5
+#     name: name15
+# matching_ids:
+#   - id1
+#   - id5
+
+# - os: mac
+# browser: google
+# impressions:
+#   - id: id2
+#     name: name2
+#   - id: id3
+#     name: name3
+#   - id: id4
+#     name: name4
+# clicks:
+#   - id: id4
+#     name: name9
+#   - id: id3
+#     name: name14
+#   - id: id6
+#     name: name16
+# matching_ids:
+#   - id3
+#   - id4

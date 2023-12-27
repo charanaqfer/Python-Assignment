@@ -1,0 +1,193 @@
+# Event_type can be one of clk, imp, eng, con and vid. 
+# Date is of format yyyy-MM-dd. 
+# Hour will be of format HH. 
+
+file: #event_type, date, hour, count.
+ - event_type: clk
+   date: 2023-08-21
+   hour: 22
+   count: 33
+ - event_type: con
+   date: 2022-10-01
+   hour: 12
+   count: 13
+ - event_type: imp
+   date: 2024-02-06
+   hour: 9
+   count: 34
+ - event_type: eng
+   date: 2025-05-14
+   hour: 7
+   count: 23
+ - event_type: vid
+   date: 2025-03-02
+   hour: 19
+   count: 3
+ - event_type: eng
+   date: 2023-12-21
+   hour: 10
+   count: 3
+ - event_type: con
+   date: 2022-01-12
+   hour: 12
+   count: 2
+ - event_type: imp
+   date: 2024-02-06
+   hour: 9
+   count: 34
+ - event_type: clk
+   date: 2025-05-14
+   hour: 7
+   count: 23
+ - event_type: clk
+   date: 2023-03-02
+   hour: 14
+   count: 6
+ - event_type: imp
+   date: 2023-06-21
+   hour: 8
+   count: 5
+ - event_type: eng
+   date: 2022-08-07
+   hour: 12
+   count: 13
+ - event_type: clk
+   date: 2025-03-06
+   hour: 12
+   count: 6
+ - event_type: vid
+   date: 2025-04-14
+   hour: 7
+   count: 2
+ - event_type: con
+   date: 2025-11-10
+   hour: 15
+   count: 3
+ - event_type: imp
+   date: 2023-07-21
+   hour: 20
+   count: 7
+ - event_type: eng
+   date: 2022-12-04
+   hour: 12
+   count: 2
+ - event_type: con
+   date: 2024-02-16
+   hour: 18
+   count: 34
+ - event_type: clk
+   date: 2025-09-14
+   hour: 11
+   count: 1
+ - event_type: vid
+   date: 2023-03-26
+   hour: 14
+   count: 2
+ - event_type: con
+   date: 2023-03-11
+   hour: 17
+   count: 33
+ - event_type: imp
+   date: 2022-12-01
+   hour: 9
+   count: 13
+ - event_type: clk
+   date: 2024-05-06
+   hour: 11
+   count: 23
+ - event_type: imp
+   date: 2025-07-14
+   hour: 14
+   count: 23
+ - event_type: eng
+   date: 2025-09-02
+   hour: 12
+   count: 3
+ - event_type: vid
+   date: 2023-05-21
+   hour: 17
+   count: 3
+ - event_type: clk
+   date: 2022-04-30
+   hour: 8
+   count: 2
+ - event_type: vid
+   date: 2024-03-06
+   hour: 15
+   count: 34
+ - event_type: con
+   date: 2025-11-14
+   hour: 17
+   count: 23
+ - event_type: vid
+   date: 2023-10-02
+   hour: 13
+   count: 6
+ - event_type: eng
+   date: 2023-07-21
+   hour: 18
+   count: 5
+ - event_type: imp
+   date: 2022-09-07
+   hour: 11
+   count: 13
+ - event_type: eng
+   date: 2024-08-06
+   hour: 15
+   count: 3
+ - event_type: con
+   date: 2025-12-14
+   hour: 14
+   count: 2
+ - event_type: clk
+   date: 2025-10-10
+   hour: 15
+   count: 3
+ - event_type: vid
+   date: 2023-02-21
+   hour: 21
+   count: 7
+ - event_type: clk
+   date: 2022-11-03
+   hour: 16
+   count: 2
+ - event_type: imp
+   date: 2024-07-16
+   hour: 14
+   count: 34
+ - event_type: vid
+   date: 2025-04-14
+   hour: 16
+   count: 1
+ - event_type: con
+   date: 2023-11-26
+   hour: 15
+   count: 2
+ - event_type: clk
+   date: 2023-06-21
+   hour: 8
+   count: 5
+ - event_type: imp
+   date: 2022-08-07
+   hour: 12
+   count: 13
+ - event_type: con
+   date: 2024-11-06
+   hour: 12
+   count: 3
+ - event_type: clk
+   date: 2025-04-14
+   hour: 7
+   count: 2
+ - event_type: eng
+   date: 2025-11-10
+   hour: 15
+   count: 3
+ - event_type: con
+   date: 2023-07-21
+   hour: 20
+   count: 7
+ - event_type: vid
+   date: 2022-12-13
+   hour: 12
+   count: 2

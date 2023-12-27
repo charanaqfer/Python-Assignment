@@ -1,0 +1,142 @@
+clk:
+  total_count: 106
+  8:
+    min_count: 33
+    max_year: 2023
+    min_year: 2023
+  5:
+    min_count: 23
+    max_year: 2025
+    min_year: 2024
+  3:
+    min_count: 6
+    max_year: 2025
+    min_year: 2023
+  9:
+    min_count: 1
+    max_year: 2025
+    min_year: 2025
+  4:
+    min_count: 2
+    max_year: 2025
+    min_year: 2022
+  10:
+    min_count: 3
+    max_year: 2025
+    min_year: 2025
+  11:
+    min_count: 2
+    max_year: 2022
+    min_year: 2022
+  6:
+    min_count: 5
+    max_year: 2023
+    min_year: 2023
+con:
+  total_count: 122
+  10:
+    min_count: 13
+    max_year: 2022
+    min_year: 2022
+  1:
+    min_count: 2
+    max_year: 2022
+    min_year: 2022
+  11:
+    min_count: 2
+    max_year: 2023
+    min_year: 2023
+  2:
+    min_count: 34
+    max_year: 2024
+    min_year: 2024
+  3:
+    min_count: 33
+    max_year: 2023
+    min_year: 2023
+  12:
+    min_count: 2
+    max_year: 2025
+    min_year: 2025
+  7:
+    min_count: 7
+    max_year: 2023
+    min_year: 2023
+imp:
+  total_count: 176
+  2:
+    min_count: 34
+    max_year: 2024
+    min_year: 2024
+  6:
+    min_count: 5
+    max_year: 2023
+    min_year: 2023
+  7:
+    min_count: 7
+    max_year: 2023
+    min_year: 2023
+  12:
+    min_count: 13
+    max_year: 2022
+    min_year: 2022
+  9:
+    min_count: 13
+    max_year: 2022
+    min_year: 2022
+  8:
+    min_count: 13
+    max_year: 2022
+    min_year: 2022
+eng:
+  total_count: 55
+  5:
+    min_count: 23
+    max_year: 2025
+    min_year: 2025
+  12:
+    min_count: 2
+    max_year: 2022
+    min_year: 2022
+  8:
+    min_count: 3
+    max_year: 2024
+    min_year: 2024
+  9:
+    min_count: 3
+    max_year: 2025
+    min_year: 2025
+  7:
+    min_count: 5
+    max_year: 2023
+    min_year: 2023
+  11:
+    min_count: 3
+    max_year: 2025
+    min_year: 2025
+vid:
+  total_count: 60
+  3:
+    min_count: 2
+    max_year: 2023
+    min_year: 2023
+  4:
+    min_count: 1
+    max_year: 2025
+    min_year: 2025
+  5:
+    min_count: 3
+    max_year: 2023
+    min_year: 2023
+  10:
+    min_count: 6
+    max_year: 2023
+    min_year: 2023
+  2:
+    min_count: 7
+    max_year: 2023
+    min_year: 2023
+  12:
+    min_count: 2
+    max_year: 2022
+    min_year: 2022
